@@ -15,11 +15,12 @@ int main()
 
     if (c * b >= a)
     {
-        cout << "YES" << endl;
+    cout << "YES" << endl;
     }
     else
     {
-        cout << "NO" <<endl;
+    
+    cout << "NO" <<endl;
     }
 }
 
