@@ -11,17 +11,16 @@ using namespace std;
 
         if (a <= 1000)
         {
-        cout << "Rabotai bolshe" <<endl;
+            cout << "Rabotai bolshe" <<endl;
         }
         if (a > 1001)
         {
         if(a < 999999)
-        cout << "Tak derzhat!" <<endl;
+            cout << "Tak derzhat!" <<endl;
         }
         if(a >= 1000000)
         {
-        cout << "Ti millioner!" <<endl;
+            cout << "Ti millioner!" <<endl;
         }
-        cout << "no ti molodec!" <<endl;
-
+            cout << "no ti molodec!" <<endl;
 }
